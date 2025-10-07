@@ -33,7 +33,7 @@ npm i
 cp .env.example .env
 nano .env
 
-npm run build
+npm run dev
 
 # or use a proper webserver
 serve dist

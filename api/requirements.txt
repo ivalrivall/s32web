@@ -1,3 +1,5 @@
 boto3
 flask
+flask-cors
 gunicorn
+python-dotenv
